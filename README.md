@@ -16,7 +16,7 @@ Tumour types include:
 
 ## Dataset
 
-We use the open-access dataset provided by Cheng et al. [Dataset](https://doi.org/10.6084/m9.figshare.1512427.v5)
+We use the open-access dataset provided by Cheng et al. [Explore The Dataset](https://doi.org/10.6084/m9.figshare.1512427.v5)
 
 
 ---
